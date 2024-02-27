@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página con Chat en Vivo</title>
+    <!-- Aquí puedes incluir enlaces a tus archivos CSS y otros recursos -->
+</head>
+<body>
+    <header>
+        <!-- Encabezado de tu página -->
+    </header>
+    
+    <nav>
+        <!-- Menú de navegación -->
+    </nav>
+
+    <main>
+        <!-- Contenido principal de tu página -->
+    </main>
+
+    <footer>
+        <!-- Pie de página -->
+    </footer>
+
+    <!-- Código de integración del chat en vivo -->
+    <script>
+        // Aquí pegarías el código de integración proporcionado por tu proveedor de chat en vivo
+    </script>
+</body>
+</html>
